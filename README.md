@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiqi20020612)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi20020612)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiqi20020612&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi20020612&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 你好，我是Z某/Hi, I’m ZMou(@qiqi20020612)
 - 👀 我对...感兴趣/I’m interested in ...
