@@ -1,5 +1,36 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiqi20020612&show_icons=true&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiqi20020612&show_icons=true&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&locale=cn&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&locale=cn"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&locale=cn" />
+</picture>
+<!-- <picture>
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&include_all_commits=true&locale=cn&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&include_all_commits=true&locale=cn"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rust-beta-61.vercel.app/api?username=qiqi20020612&show_icons=true&include_all_commits=true&locale=cn" />
+</picture> -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api/top-langs/?username=qiqi20020612&show_icons=true&layout=compact&locale=cn&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-rust-beta-61.vercel.app/api/top-langs/?username=qiqi20020612&show_icons=true&layout=compact&locale=cn"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-rust-beta-61.vercel.app/api/top-langs/?username=qiqi20020612&show_icons=true&layout=compact&locale=cn" />
+</picture>
 
 - 👋 你好，我是[Z某](https://github.com/qiqi20020612)  
   Hi, I’m [ZMou](https://github.com/qiqi20020612)
